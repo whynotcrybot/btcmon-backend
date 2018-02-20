@@ -1,0 +1,9 @@
+{
+  "name": "BTC_PRICE_BITFINEX",
+  "version": "0.0.1",
+  "dependencies": {
+    "request": "^2.83.0",
+    "@google-cloud/datastore": "^1.3.4"
+  }
+}
+
